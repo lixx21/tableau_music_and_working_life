@@ -7,3 +7,8 @@
 # Dashboard
 
 ![dashboard](https://user-images.githubusercontent.com/91602612/209099326-1f6684d8-ee93-4f58-b218-31a1a780282a.png)
+
+# Analysis
+
+1. We know thata people usually working for 8 hours / day, and from this data we know that **average people listen to music while working is about 4 hours / day**, therefore we know that people who listen to music while working only listen to music per half working day.
+2. ,,,
