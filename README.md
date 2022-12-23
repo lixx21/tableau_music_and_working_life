@@ -6,7 +6,7 @@
 
 # Dashboard
 
-![dashboard](https://user-images.githubusercontent.com/91602612/209099326-1f6684d8-ee93-4f58-b218-31a1a780282a.png)
+![dashboard](https://user-images.githubusercontent.com/91602612/209331976-95e065bf-ca2a-4857-b53f-473a5b00472f.png)
 
 # Analysis
 
